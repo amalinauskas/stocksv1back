@@ -1,3 +1,3 @@
 # vet-shop-backend
 
-Back-end code for: https://github.com/amalinauskas/vet-shop project.
+Back-end code for: https://github.com/amalinauskas/stocksV1 project.
